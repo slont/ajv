@@ -33,7 +33,7 @@ node_modules
 .browser
 
 # compiled typescript
-dist/
+# dist/
 
 # browser bundles
 bundle/
